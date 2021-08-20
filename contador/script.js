@@ -23,7 +23,7 @@ if(inicio.value.length == 0 || fim.value.length == 0 || passo.value.length == 0)
                 let pas = Number(passo.value)
 
                 if(pas <= 0){
-                    alert('Passo invalido! considerando o passo 1')
+                    alert('Passo invalido! considerando o passo 1 *-*')
                     pas = 1
                 }
                 
